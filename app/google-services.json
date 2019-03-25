@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "553992828954",
+    "firebase_url": "https://suddenradio-9c0ee.firebaseio.com",
+    "project_id": "suddenradio-9c0ee",
+    "storage_bucket": "suddenradio-9c0ee.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:553992828954:android:54ef9576cd681b30",
+        "android_client_info": {
+          "package_name": "com.example.khchere.firebasemessenger"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "553992828954-qfjn3nq56ua382rfch54ls9c6if38vab.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC84ggqvVWa_0V_-BSSfZozCyQvXMV9RXw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
